@@ -104,8 +104,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or support, please reach out:
 
-- **Author:** Abdullah Shishir
-- **GitHub:** [shishir786](https://github.com/shishir786)
+**Author:**
+- Abdullah Shishir [shishir786](https://github.com/shishir786)
+
+- Kamruzzaman Sony [hisony](https://github.com/hisony)
 
 ## Some screenshorts of project:
 
